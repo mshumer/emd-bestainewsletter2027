@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestainewsletter2027.com/sitemap.xml
